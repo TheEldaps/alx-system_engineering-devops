@@ -1,2 +1,2 @@
 #!/bin/bash
-export echo $(($POWER/<F11>$DIVIDE))\n
+export $(($POWER/$DIVIDE))\n
